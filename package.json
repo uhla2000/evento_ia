@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<SEU-USUARIO>.github.io/<SEU-REPOSITORIO>/",
+  "homepage": "https://uhla2000.github.io/evento_ia/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
